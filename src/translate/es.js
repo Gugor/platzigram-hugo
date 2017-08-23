@@ -1,0 +1,21 @@
+module.exports = {
+	'likes' 				: '{likes, number} me gusta',
+	'logout'				: 'Salir',
+	'english'				: 'Inglés',
+	'spanish'				: 'Español',
+	'signup.subheading' 	: 'Regístrate para ver las imagenes de tus amigos estudiando en Platzi',
+	'signup.facebook'		: 'Regístrate con Facebook',
+	'signup.text' 			: 'Regístrate',
+	'email' 				: 'Correo Electrónico',
+	'username'				: 'Nombre de usuario',
+	'fullname'				: 'Nombre',
+	'password'				: 'Contraseña',
+	'signup.call-to-action'	: '¡Regístrate!',
+	'signup.have-account'	: "¿Ya tienes una cuenta?",
+	'signin.call-to-action'	: '¡Entra!',
+	'signin.text'			: 'Entrar',
+	'sigin.not-have-account': '¿Todavía no tienes una cuenta?',
+	'language'				: 'Idioma',
+	'upload-picture'		: 'Subir Imagen',
+	'upload'     			: 'Subir'
+};
